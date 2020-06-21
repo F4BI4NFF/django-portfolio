@@ -1,0 +1,4 @@
+# Ignoring OS files, Virtual env and pycharm metadata
+.DS_Store
+.env/
+.idea/
